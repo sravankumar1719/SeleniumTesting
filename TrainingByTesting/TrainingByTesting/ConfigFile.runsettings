@@ -1,0 +1,5 @@
+﻿<RunSettings>
+  <TestRunParameters>
+    <Parameter name="language" value="Russian" />
+  </TestRunParameters>
+</RunSettings>
